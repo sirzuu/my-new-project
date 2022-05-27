@@ -8,6 +8,9 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
+
+![image of headphones](pexels-vlad-bagacian-1337753.jpg)
+
 ## This project is about creating an app that uses AI to recommend better, less well known music to people to enchance their listening pleasure while supporting smaller artists.
 
 
@@ -36,7 +39,5 @@ Final project for the Building AI course
 
 ## I was inspired by my own struggles to find new, exciting music!
 
-![Picture of headphones](Photo by Vlad Bagacian: https://www.pexels.com/photo/turned-on-black-samsung-smartphone-between-headphones-1337753/) 
-* etc
 
 Building AI course project

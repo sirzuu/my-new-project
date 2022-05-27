@@ -36,7 +36,7 @@ Final project for the Building AI course
 
 ## I was inspired by my own struggles to find new, exciting music!
 
-[Picture of headphones](Photo by Vlad Bagacian from Pexels: https://www.pexels.com/photo/turned-on-black-samsung-smartphone-between-headphones-1337753/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+![Picture of headphones](Photo by Vlad Bagacian: https://www.pexels.com/photo/turned-on-black-samsung-smartphone-between-headphones-1337753/) 
 * etc
 
 Building AI course project
